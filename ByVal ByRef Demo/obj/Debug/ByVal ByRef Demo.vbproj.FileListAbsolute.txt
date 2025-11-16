@@ -1,0 +1,11 @@
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.exe.config
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.exe
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.pdb
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.xml
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\obj\Debug\ByVal ByRef Demo.vbprojAssemblyReference.cache
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\obj\Debug\ByVal_ByRef_Demo.Form1.resources
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\obj\Debug\ByVal_ByRef_Demo.Resources.resources
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\obj\Debug\ByVal ByRef Demo.vbproj.GenerateResource.cache
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\obj\Debug\ByVal ByRef Demo.exe
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\obj\Debug\ByVal ByRef Demo.xml
+C:\Users\Quincy\source\repos\ByVal ByRef Demo\ByVal ByRef Demo\obj\Debug\ByVal ByRef Demo.pdb

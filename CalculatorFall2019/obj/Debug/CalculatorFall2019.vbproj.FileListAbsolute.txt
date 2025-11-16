@@ -1,0 +1,12 @@
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\bin\Debug\CalculatorFall2019.exe.config
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\bin\Debug\CalculatorFall2019.exe
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\bin\Debug\CalculatorFall2019.pdb
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\bin\Debug\CalculatorFall2019.xml
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\obj\Debug\CalculatorFall2019.vbprojAssemblyReference.cache
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\obj\Debug\CalculatorFall2019.Form1.resources
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\obj\Debug\CalculatorFall2019.Resources.resources
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\obj\Debug\CalculatorFall2019.vbproj.GenerateResource.cache
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\obj\Debug\CalculatorFall2019.vbproj.CoreCompileInputs.cache
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\obj\Debug\CalculatorFall2019.exe
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\obj\Debug\CalculatorFall2019.xml
+C:\Users\Quincy\source\repos\CalculatorFall2019\CalculatorFall2019\obj\Debug\CalculatorFall2019.pdb

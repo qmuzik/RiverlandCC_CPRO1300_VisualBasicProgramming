@@ -1,0 +1,12 @@
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\bin\Debug\Bagel and Coffee Price Calculator.exe.config
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\bin\Debug\Bagel and Coffee Price Calculator.exe
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\bin\Debug\Bagel and Coffee Price Calculator.pdb
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\bin\Debug\Bagel and Coffee Price Calculator.xml
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\obj\Debug\Bagel and Coffee Price Calculator.vbprojAssemblyReference.cache
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\obj\Debug\Bagel_and_Coffee_Price_Calculator.Form1.resources
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\obj\Debug\Bagel_and_Coffee_Price_Calculator.Resources.resources
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\obj\Debug\Bagel and Coffee Price Calculator.vbproj.GenerateResource.cache
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\obj\Debug\Bagel and Coffee Price Calculator.exe
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\obj\Debug\Bagel and Coffee Price Calculator.xml
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\obj\Debug\Bagel and Coffee Price Calculator.pdb
+C:\Users\Quincy\source\repos\Bagel and Coffee Price Calculator\Bagel and Coffee Price Calculator\obj\Debug\Bagel and Coffee Price Calculator.vbproj.CoreCompileInputs.cache
