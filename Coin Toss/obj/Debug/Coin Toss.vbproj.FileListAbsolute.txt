@@ -1,0 +1,11 @@
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\bin\Debug\Coin Toss.xml
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbprojAssemblyReference.cache
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Resources.resources
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.cache
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\obj\Debug\Coin Toss.xml
+C:\Users\Quincy\source\repos\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb
